@@ -1,0 +1,1 @@
+This is a HTML project for TOP. The project requires a recipe website in pure HTML code using previously studied HTML basics, including formatting, lists, links, images, and so on.
